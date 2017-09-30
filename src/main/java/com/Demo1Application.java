@@ -14,7 +14,6 @@ import org.springframework.context.annotation.Bean;
 import com.Repository.UserRepository;
 import com.beans.User;
 
-@EnableDiscoveryClient
 @SpringBootApplication
 public class Demo1Application {
 
